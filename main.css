@@ -1,0 +1,25 @@
+h1{
+    background-color: black;
+    color: white;
+  }
+  canvas{
+    width: 500px;
+    height: 250px;
+ 
+    margin-bottom: 5px;
+  }
+  body{
+    background-color: #3FBFBF;
+    text-align: center;
+   
+  }
+  .blk{
+    background-color: #B71F6B;
+    padding: 5px;
+  }
+  .gray{
+    color: gray;
+  }
+  .red{
+    color: Red
+  }
